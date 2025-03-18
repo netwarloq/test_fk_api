@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Song 1",
+    "artist": "Artist 1",
+    "youtube": "https://www.youtube.com/watch?v=example1",
+    "yandexMusic": "https://music.yandex.ru/track/example1",
+    "spotify": "https://open.spotify.com/track/example1"
+  },
+  {
+    "name": "Song 2",
+    "artist": "Artist 2",
+    "youtube": "https://www.youtube.com/watch?v=example2",
+    "yandexMusic": "https://music.yandex.ru/track/example2",
+    "spotify": "https://open.spotify.com/track/example2"
+  }
+]
