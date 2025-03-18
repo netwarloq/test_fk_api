@@ -1,4 +1,5 @@
-"posts": [
+{
+  "posts": [
   {
     "name": "Song 1",
     "artist": "Artist 1",
@@ -14,11 +15,11 @@
     "spotify": "https://open.spotify.com/track/example2"
   }
 ],
-"comments": [
+  "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-"profile": {
+  "profile": {
     "name": "typicode"
   }
 }
